@@ -2,7 +2,7 @@
 <br />
 :point_right:This CubeSat is using Arduino C++ that connected with Camera and Sensors to Record **Raw Data** from Atmosphere.
 <br />
-**Functions**
+:man_astronaut: Functions :woman_astronaut:
 <br />
 1.:white_check_mark: Temperature(C) 
 <br />
