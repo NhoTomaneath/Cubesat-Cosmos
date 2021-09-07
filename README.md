@@ -1,4 +1,4 @@
-:artificial_satellite: # **Cubesat-Cosmos** :artificial_satellite:
+:artificial_satellite: # Cubesat-Cosmos :artificial_satellite:
 <br />
 :point_right:This CubeSat is using Arduino C++ that connected with Camera and Sensors to Record Data from Weather.
 <br />
