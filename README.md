@@ -1,19 +1,27 @@
-:artificial_satellite: #Cubesat-Cosmos :artificial_satellite:
+:artificial_satellite: #**Cubesat-Cosmos** :artificial_satellite:
 <br />
 :point_right:This CubeSat is using Arduino C++ that connected with Camera and Sensors to Record Data from Weather.
 <br />
-1.Temperature(C) :white_check_mark:
+##**Functions**
 <br />
-2.Humidity(%) :white_check_mark:
+1.:white_check_mark: Temperature(C) 
 <br />
-3.Pressure(KPa) :white_check_mark:
+2.:white_check_mark: Humidity(%) 
 <br />
-4.UV :white_check_mark:
+3.:white_check_mark: Pressure(KPa) 
 <br />
-5.Airquality PM10(Ug/m3) :white_check_mark:
+4.:white_check_mark: UV 
 <br />
-6.Airquality PM2.5(Ug/m3) :white_check_mark:
+5. :white_check_mark: Airquality PM10(Ug/m3)
 <br />
-7.Airquality PM1.0(Ug/m3) :white_check_mark:
+6.:white_check_mark: Airquality PM2.5(Ug/m3) 
+<br />
+7.:white_check_mark: Airquality PM1.0(Ug/m3) 
+<br />
+8.:white_check_mark: Capture Pictures/ Record Videos
+<br />
 <br />
 :point_right:Use SolidWork 2016 to design 1U cubesat.
+<br />
+<br />
+<br />
