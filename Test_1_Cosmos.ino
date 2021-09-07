@@ -2,7 +2,7 @@
 /* Created: 06/09/2021
  * Modified:  
  - 07/09/2021 Panha
- * E2stem Cubesat
+ * E2stem Cubesat (Offical's name: Cosmos)
    By Teacher oudom && Panha 12.2
 */
 //Problem 01: 06-09-2021 sensor did not write Data after plug with power bank 
