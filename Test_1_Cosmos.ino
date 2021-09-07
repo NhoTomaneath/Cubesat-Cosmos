@@ -6,6 +6,7 @@
    By Teacher oudom && Panha 12.2
 */
 //Problem 01: 06-09-2021 sensor did not write Data after plug with power bank 
+//Problem 02: RTC module DS3231
 
 
 #include <Arduino_MKRENV.h>
