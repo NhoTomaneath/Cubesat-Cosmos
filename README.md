@@ -1,11 +1,14 @@
 # Cubesat-Cosmos
 <br />
-:point_right:This CubeSat is using Arduino C++ that connected with Camera and Sensors to Record **Raw Data** from Atmosphere.
-<br />
+E2stem First CubeSat to Space
 <br />
 
 ## Functions 
 :man_astronaut: :woman_astronaut:
+<br />
+<br />
+:point_right:This CubeSat is using Arduino C++ that connected with Camera and Sensors to Record  Raw Data from Atmosphere.
+<br />
 <br />
 1.:white_check_mark: Temperature(C) 
 <br />
@@ -28,4 +31,5 @@
 <br />
 <br />
 <br />
+
 
