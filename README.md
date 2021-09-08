@@ -3,8 +3,9 @@
 :point_right:This CubeSat is using Arduino C++ that connected with Camera and Sensors to Record **Raw Data** from Atmosphere.
 <br />
 <br />
-<p align="center">
-:man_astronaut: # Functions :woman_astronaut:
+
+## Functions 
+:man_astronaut: :woman_astronaut:
 <br />
 1.:white_check_mark: Temperature(C) 
 <br />
@@ -23,8 +24,8 @@
 8.:white_check_mark: Capture Pictures/ Record Videos
 <br />
 <br />
-</p>
 :point_right:Use SolidWork 2016 to design 1U cubesat.
 <br />
 <br />
 <br />
+
