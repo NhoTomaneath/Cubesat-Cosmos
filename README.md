@@ -27,6 +27,8 @@ E2stem First CubeSat to Space
 8.:white_check_mark: Capture Pictures/ Record Videos
 <br />
 <br />
+
+## Design
 :point_right:Use SolidWork 2016 to design 1U cubesat.
 <br />
 <br />
